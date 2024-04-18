@@ -4,116 +4,125 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4655333-8af9-4c77-ab80-3f36d85e6663" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/AddStudentTest.java" afterDir="false" />
+    <list default="true" id="1a5a573d-f975-4b3a-89db-fff580ca9a20" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/LabAssiAsseRequirements .pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/Project_AnalysisDesignDocument_LabAssiAsseProjectV01.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/Project_RequirementsDocument_LabAssiAsseProjectV01.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/ana.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/maria.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/note.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/note.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/domain/HasID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/domain/Nota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/domain/Pair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/domain/Tema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/repository/AbstractCRUDRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/repository/AbstractFileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/repository/AbstractXMLRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/repository/CRUDRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/repository/NotaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/repository/NotaXMLRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/repository/StudentFileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/repository/StudentXMLRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/repository/TemaFileRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/repository/TemaRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/repository/TemaXMLRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/service/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/validation/NotaValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/validation/StudentValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/validation/TemaValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/validation/ValidationException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/validation/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/studenti.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/studenti.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/teme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/teme.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MonitorizareTeme/vasile.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LabAssiAsseRequirements .pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MonitorizareTemeLaboratorV01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_AnalysisDesignDocument_LabAssiAsseProjectV01.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project_RequirementsDocument_LabAssiAsseProjectV01.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ana.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ana.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/note.xml" beforeDir="false" afterPath="$PROJECT_DIR$/note.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/console/UI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/HasID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Nota.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/domain/Tema.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/AbstractCRUDRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/AbstractFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/AbstractXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/CRUDRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/NotaFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/NotaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/NotaXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/StudentFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/StudentRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/StudentXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/TemaFileRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/TemaRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/repository/TemaXMLRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/service/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/test/AddStudentTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/NotaValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/StudentValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/TemaValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/ValidationException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MonitorizareTemeLaboratorV01/validation/Validator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/console/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/console/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/HasID.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Nota.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/domain/Tema.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/AbstractCRUDRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/AbstractFileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/AbstractXMLRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/CRUDRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/NotaFileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/repository/NotaFileRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/NotaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/NotaXMLRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/StudentFileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/StudentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/StudentXMLRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/TemaFileRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/TemaRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/repository/TemaXMLRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/service/Service.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/AddStudentTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MonitorizareTeme/src/main/java/org/example/test/AddStudentTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/NotaValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/StudentValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/TemaValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/ValidationException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/validation/Validator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/studenti.txt" beforeDir="false" afterPath="$PROJECT_DIR$/studenti.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studenti.xml" beforeDir="false" afterPath="$PROJECT_DIR$/studenti.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/teme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/teme.xml" beforeDir="false" afterPath="$PROJECT_DIR$/teme.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="53">
-              <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/console/UI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/domain/HasID.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/domain/Nota.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/domain/Pair.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/domain/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/domain/Tema.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/repository/NotaFileRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/repository/TemaFileRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/repository/StudentFileRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,392 +134,175 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/domain/HasID.java" />
-        <option value="$PROJECT_DIR$/src/domain/Nota.java" />
-        <option value="$PROJECT_DIR$/src/domain/Pair.java" />
-        <option value="$PROJECT_DIR$/src/domain/Student.java" />
-        <option value="$PROJECT_DIR$/src/domain/Tema.java" />
-        <option value="$PROJECT_DIR$/src/repository/CRUDRepository.java" />
-        <option value="$PROJECT_DIR$/src/validation/NotaValidator.java" />
-        <option value="$PROJECT_DIR$/src/validation/StudentValidator.java" />
-        <option value="$PROJECT_DIR$/src/validation/TemaValidator.java" />
-        <option value="$PROJECT_DIR$/src/validation/ValidationException.java" />
-        <option value="$PROJECT_DIR$/src/validation/Validator.java" />
-        <option value="$PROJECT_DIR$/src/console/UI.java" />
-        <option value="$PROJECT_DIR$/src/service/Service.java" />
-        <option value="$PROJECT_DIR$/src/repository/StudentXMLRepository.java" />
-        <option value="$PROJECT_DIR$/src/repository/AbstractXMLRepository.java" />
-        <option value="$PROJECT_DIR$/src/repository/AbstractCRUDRepository.java" />
-        <option value="$PROJECT_DIR$/src/repository/TemaXMLRepository.java" />
-        <option value="$PROJECT_DIR$/src/repository/NotaXMLRepository.java" />
-        <option value="$PROJECT_DIR$/src/repository/TemaRepository.java" />
-        <option value="$PROJECT_DIR$/src/repository/NotaRepository.java" />
-        <option value="$PROJECT_DIR$/src/repository/StudentRepository.java" />
-        <option value="$PROJECT_DIR$/src/repository/AbstractFileRepository.java" />
-        <option value="$PROJECT_DIR$/src/repository/NotaFileRepository.java" />
-        <option value="$PROJECT_DIR$/src/repository/TemaFileRepository.java" />
-        <option value="$PROJECT_DIR$/src/repository/StudentFileRepository.java" />
-      </list>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="815" />
-    <option name="height" value="868" />
-  </component>
-  <component name="ProjectId" id="2e29cj5h9MsLZ8vMG0hrVxhSPRG" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MonitorizareTemeLaboratorV01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitorizareTemeLaboratorV01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MonitorizareTemeLaboratorV01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitorizareTemeLaboratorV01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MonitorizareTemeLaboratorV01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitorizareTemeLaboratorV01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="console" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MonitorizareTemeLaboratorV01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitorizareTemeLaboratorV01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MonitorizareTemeLaboratorV01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitorizareTemeLaboratorV01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MonitorizareTemeLaboratorV01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitorizareTemeLaboratorV01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MonitorizareTemeLaboratorV01" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MonitorizareTemeLaboratorV01" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="validation" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
-  </component>
+  <component name="ProjectId" id="2edPUEQvIXuPYKnQsp5JfExfi7N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.Main.executor": "Debug",
+    "Application.Main.executor": "Run",
+    "JUnit.TestAddAssignment.testAddAssignment_deadlineAndStartlineNotInTheValidRange_assignmentNotAdded.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/UBB-S6/SSVV/Labs/lab-project-ssvv/LabAssiAsseProjectV01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="MonitorizareTemeLaboratorV01" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\stanbydrew\Desktop\University\Sem6\SSVV\Lab1\LabAssiAsseProject" />
+      <recent name="C:\Users\stanbydrew\Desktop\University\Sem6\SSVV\Lab1\LabAssiAsseProject\src\main\java\ssvv\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestAddAssignment.testAddAssignment_deadlineAndStartlineNotInTheValidRange_assignmentNotAdded">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ssvv.example.Main" />
+      <module name="LabAssiAsseProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssvv.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAddAssignment" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabAssiAsseProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssvv.example.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ssvv.example.tests" />
+      <option name="MAIN_CLASS_NAME" value="ssvv.example.tests.TestAddAssignment" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAddAssignment.testAddAssignment_deadlineAndStartlineNotInTheValidRange_assignmentNotAdded" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabAssiAsseProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssvv.example.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ssvv.example.tests" />
+      <option name="MAIN_CLASS_NAME" value="ssvv.example.tests.TestAddAssignment" />
+      <option name="METHOD_NAME" value="testAddAssignment_deadlineAndStartlineNotInTheValidRange_assignmentNotAdded" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAddStudent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabAssiAsseProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssvv.example.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ssvv.example.tests" />
+      <option name="MAIN_CLASS_NAME" value="ssvv.example.tests.TestAddStudent" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAddStudent.testAddStudent_groupIsNaturalNumberGreaterThanMaxInt_throwsException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LabAssiAsseProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ssvv.example.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ssvv.example.tests" />
+      <option name="MAIN_CLASS_NAME" value="ssvv.example.tests.TestAddStudent" />
+      <option name="METHOD_NAME" value="testAddStudent_groupIsNaturalNumberGreaterThanMaxInt_throwsException" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestAddAssignment.testAddAssignment_deadlineAndStartlineNotInTheValidRange_assignmentNotAdded" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TestAddAssignment" />
+        <item itemvalue="JUnit.TestAddStudent" />
+        <item itemvalue="JUnit.TestAddStudent.testAddStudent_groupIsNaturalNumberGreaterThanMaxInt_throwsException" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
+        <option value="jdk-21.0.2-openjdk-21.0.2-4caba194b151-4f524021" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d4655333-8af9-4c77-ab80-3f36d85e6663" name="Default Changelist" comment="" />
-      <created>1550871485222</created>
+      <changelist id="1a5a573d-f975-4b3a-89db-fff580ca9a20" name="Changes" comment="" />
+      <created>1712231497122</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1550871485222</updated>
-      <workItem from="1550871488147" duration="1456000" />
-      <workItem from="1711091890525" duration="306000" />
-      <workItem from="1711092213398" duration="1539000" />
+      <updated>1712231497122</updated>
+      <workItem from="1712231498622" duration="2253000" />
+      <workItem from="1712237521669" duration="12305000" />
+      <workItem from="1712294880598" duration="1271000" />
+      <workItem from="1713455749366" duration="4000" />
+      <workItem from="1713455771221" duration="494000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1456000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.329429" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27672035" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Maven-2 Build" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/repository/CRUDRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/validation/NotaValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/validation/StudentValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/validation/TemaValidator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/validation/ValidationException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/validation/Validator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="19" selection-start-column="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/service/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repository/StudentXMLRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repository/AbstractXMLRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repository/AbstractCRUDRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repository/TemaXMLRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repository/NotaXMLRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repository/TemaRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repository/NotaRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repository/StudentRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repository/AbstractFileRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repository/NotaFileRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repository/TemaFileRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/repository/StudentFileRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="53">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/console/UI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/domain/HasID.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/domain/Nota.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/domain/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/domain/Tema.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/domain/Pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
   </component>
 </project>
